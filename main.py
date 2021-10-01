@@ -46,3 +46,5 @@ class imc():
 
         self.resultado1 = Label(textvariable=self.imcfinal)
         self.resultado1.place(relx=0.1, rely=0.65, relwidth=0.8,relheight=0.2)
+
+        #código foi executado utilizando o ambiente Venv...
